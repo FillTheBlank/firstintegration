@@ -1,0 +1,5 @@
+<people>
+    <human number="1" name="Дмитрий" lastname="Асонов" contry="Беларусь" city="Минск" indecs="220101" street="Якубова" house="24" flat="108" mob="+375298924126"/>
+    <human number="2" name="Сергей" lastname="Манголь" contry="Беларусь" city="Барановичи" indecs="220101" street="Якубова" house="24" flat="108" mob="+375298924126"/>
+    <human number="3" name="Боб" lastname="Воване" contry="Рассия" city="Санкт" indecs="331011" street="Какой-то" house="4" flat="13" mob="+375298924126"/>
+</people>
